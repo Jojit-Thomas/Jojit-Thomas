@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jojit Thomas</h1>
-<h3 align="center">Teen developer from Keral,India</h3>
+<h3 align="center">Teen developer from Kerala,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jojit-thomas&label=Profile%20views&color=0e75b6&style=flat" alt="jojit-thomas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jojit-thomas&label=Profile%20views&color=green" alt="jojit-thomas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojit-thomas" alt="jojit-thomas" /></a> </p>
 
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [jojitthomas.github.io](jojitthomas.github.io)
+- 👨‍💻 All of my projects are available at [jojit-thomas.github.io](jojit-thomas.github.io)
 
 - 💬 Ask me about **Node.js**
 
