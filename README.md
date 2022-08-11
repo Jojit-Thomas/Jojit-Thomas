@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [jojit-thomas.github.io](jojit-thomas.github.io)
+- 👨‍💻 All of my projects are available at [jojit-thomas.github.io](https://jojit-thomas.github.io/)
 
 - 💬 Ask me about **Node.js**
 
