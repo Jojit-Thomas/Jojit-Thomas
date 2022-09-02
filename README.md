@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojit-thomas" alt="jojit-thomas" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack** **@ Brocamp **
 
 - 👨‍💻 All of my projects are available at [jojit-thomas.github.io](https://jojit-thomas.github.io/)
 
