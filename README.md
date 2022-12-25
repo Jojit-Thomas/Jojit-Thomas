@@ -10,4 +10,4 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **contact.jojit@gmail.com**
+- 📫 How to reach me **thomasjojit@gmail.com**
