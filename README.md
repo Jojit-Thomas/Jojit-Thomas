@@ -18,6 +18,6 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jojit-thomas&bg_color=000000&color=9e4c98&line=9e4c98&point=525252&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jojit-thomas&bg_color=000000&color=9e4c98&line=9e4c98&point=525252&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
